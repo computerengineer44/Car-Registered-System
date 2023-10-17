@@ -1,0 +1,25 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "iconcar1.png",
+      "sizes": "920x835",
+      "type": "image/png"
+    },
+     {
+      "src": "drive.png",
+      "type": "image/jpeg",
+      "sizes": "900x940"
+    },
+    {
+      "src": "cars.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    }
+   ],
+  "start_url": "/myapp",
+  "display": "fullscreen",
+  "theme_color": "#336699",
+  "background_color": "#FFCC00"
+}
