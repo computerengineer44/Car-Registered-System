@@ -1,5 +1,22 @@
 # car-registered-system
 
+<div> 
+    
+</div>
+
+<h2>Used technologies</h2>
+<ul>
+    <li>React Redux-Toolkit</li>
+   <li>Material UI</li>
+   <li>Axios</li>
+   <li>UseQuery</li>
+   <li>React Icons</li>
+   <li>Formik</li>
+     <li>Yup</li>
+   <li>React Router Dom</li>
+  <li>UseEffect</li>
+
+
 About the project...
 
 In this project, I gained extensive experience in communicating effectively between React components. I fully understood the component-based structure of React and consciously used functions such as useMemo and useCallback to avoid unnecessary re-rendering when necessary.I easily managed user logins and data validations by effectively using tools such as Formik and Yup for form management. In this way, we were able to better control users' data entries and prevent errors in advance.I used react-router-dom library for page redirects. This made it easier to navigate between different pages and improved the user experience.
