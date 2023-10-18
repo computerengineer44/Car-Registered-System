@@ -39,7 +39,7 @@ Additionally, I actively used Redux for application state and data management, e
 
   <div>
     <h1>7</h1>
-    <img src="https://github.com/computerengineer44/car-registered-system/blob/main/7.png />
+    <img src="https://github.com/computerengineer44/car-registered-system/blob/main/7.png" />
   </div>
 
 
