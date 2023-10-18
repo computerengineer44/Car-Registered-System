@@ -6,6 +6,40 @@ In this project, I gained extensive experience in communicating effectively betw
 Additionally, I actively used Redux for application state and data management, enabling interactive communication between components. Redux is a powerful tool for managing application-wide state and facilitating data sharing between components.Through these experiences, I learned how to effectively use the tools and methods needed to develop React applications more effectively.
 
 
+<div>
+  <div>
+    <h1>1</h1>
+    <img src="(https://github.com/computerengineer44/car-registered-system/blob/main/1.png)" />
+  </div>
 
+  <div>
+    <h1>2</h1>
+    <img src="https://github.com/computerengineer44/car-registered-system/blob/main/2.png" />
+  </div>
+
+  <div>
+    <h1>3</h1>
+    <img src="https://github.com/computerengineer44/car-registered-system/blob/main/3.png" />
+  </div>
+
+  <div>
+    <h1>4</h1>
+    <img src="https://github.com/computerengineer44/car-registered-system/blob/main/4.png" />
+  </div>
+
+  <div>
+    <h1>5</h1>
+    <img src="https://github.com/computerengineer44/car-registered-system/blob/main/5.png" />
+  </div>
+
+  <div>
+    <h1>6</h1>
+    <img src="https://github.com/computerengineer44/car-registered-system/blob/main/6.png" />
+  </div>
+
+  <div>
+    <h1>7</h1>
+    <img src="https://github.com/computerengineer44/car-registered-system/blob/main/7.png />
+  </div>
 
 
