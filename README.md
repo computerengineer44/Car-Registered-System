@@ -6,3 +6,6 @@ In this project, I gained extensive experience in communicating effectively betw
 Additionally, I actively used Redux for application state and data management, enabling interactive communication between components. Redux is a powerful tool for managing application-wide state and facilitating data sharing between components.Through these experiences, I learned how to effectively use the tools and methods needed to develop React applications more effectively.
 
 
+
+<img src="C:\Users\bugra\Desktop\Sahibinden satılık araba (1).png" alt="alt text" width="320" height="180">
+
