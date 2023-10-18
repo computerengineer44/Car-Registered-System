@@ -40,7 +40,7 @@ Additionally, I actively used Redux for application state and data management, e
 
   <div>
     <h1>2.Araç Ekleme Menüsü </h1>
-    <img src="https://github.com/computerengineer44/car-registered-system/blob/main/2.png" />
+    <img src="https://github.com/computerengineer44/car-registered-system/blob/main/9.png" />
   </div>
 
   <div>
