@@ -7,5 +7,5 @@ Additionally, I actively used Redux for application state and data management, e
 
 
 
-![alt text](C:\Users\bugra\Desktop\seç.png)
+
 
