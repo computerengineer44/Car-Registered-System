@@ -7,5 +7,5 @@ Additionally, I actively used Redux for application state and data management, e
 
 
 
-<img src="C:\Users\bugra\Desktop\Sahibinden satılık araba (1).png" alt="alt text" width="320" height="180">
+<img src="C:\Users\bugra\Desktop\Sahibinden satılık araba (1).png" alt="" width="320" height="180">
 
