@@ -2,7 +2,7 @@
    
 </div>
 
-<h2>Used technologies</h2>
+<h2>Kullanılan Teknolojiler</h2>
 <ul>
     <li>React Redux-Toolkit</li>
    <li>Material UI</li>
