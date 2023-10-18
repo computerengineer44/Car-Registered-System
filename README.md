@@ -1,7 +1,5 @@
 # car-registered-system
-
-<div> 
-    
+   
 </div>
 
 <h2>Used technologies</h2>
