@@ -8,37 +8,37 @@ Additionally, I actively used Redux for application state and data management, e
 
 <div>
   <div>
-    <h1>1</h1>
+    <h1>1.Şifre Değiştirme </h1>
     <img src="https://github.com/computerengineer44/car-registered-system/blob/main/1.png" />
   </div>
 
   <div>
-    <h1>2</h1>
+    <h1>2.Araç Ekleme Menüsü </h1>
     <img src="https://github.com/computerengineer44/car-registered-system/blob/main/2.png" />
   </div>
 
   <div>
-    <h1>3</h1>
+    <h1>3.Kayıt Olma Menüsü </h1>
     <img src="https://github.com/computerengineer44/car-registered-system/blob/main/3.png" />
   </div>
 
   <div>
-    <h1>4</h1>
+    <h1>4.Giriş Menüsü</h1>
     <img src="https://github.com/computerengineer44/car-registered-system/blob/main/4.png" />
   </div>
 
   <div>
-    <h1>5</h1>
+    <h1>5.Araçlar Menüsü</h1>
     <img src="https://github.com/computerengineer44/car-registered-system/blob/main/5.png" />
   </div>
 
   <div>
-    <h1>6</h1>
+    <h1>6.Araç Seçme Menüsü</h1>
     <img src="https://github.com/computerengineer44/car-registered-system/blob/main/6.png" />
   </div>
 
   <div>
-    <h1>7</h1>
+    <h1>7.Filtrelenmiş Araç Menüsü</h1>
     <img src="https://github.com/computerengineer44/car-registered-system/blob/main/7.png" />
   </div>
 
