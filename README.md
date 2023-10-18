@@ -35,7 +35,7 @@ Additionally, I actively used Redux for application state and data management, e
 <div>
   <div>
     <h1>1.Şifre Değiştirme </h1>
-    <img src="https://github.com/computerengineer44/car-registered-system/blob/main/1.png" />
+    <img src="https://github.com/computerengineer44/car-registered-system/blob/main/8.png" />
   </div>
 
   <div>
